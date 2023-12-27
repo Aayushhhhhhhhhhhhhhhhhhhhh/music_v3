@@ -1,0 +1,25 @@
+body{
+     background-size: cover;
+}
+.head_ing
+{
+     width: 100%;
+     height:18%;
+     border: solid;
+     border-radius: 20PX;
+     border-color: orange;
+}
+.class
+{
+   width: 150px; 
+   height: 50px;
+   font-size: large;
+}
+#t
+{
+     border: solid  ;
+     border-color: azure ;
+     width: 40%;
+     height: 350%;
+     border-radius: 30px;
+}
